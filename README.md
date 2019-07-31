@@ -8,15 +8,11 @@ It is provided "as is", I hasn't responsibility for possible damage, broken site
 **[Remove Annoying Elements](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/webserfer/uBlock-filters/master/AnnoyingElements.filter&title=uBlock%20filters%20by%20[webserfer]%20–%20Annoying%20Elements)**<br>
 
 Or use direct links:<br>
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/general.filter`<br>
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/other.filter`<br>
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/AnnoyingElements.filter`<br>
-
-## Other uBlock filters
-
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/UncheckyAds.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uBlock_general.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uBlock_other.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uBlock_annoying.filter`<br>
 
 ## uMatrix recipies
 
 Russian ruleset recipies:<br>
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/uMatrix-ru.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/uMatrix-ru.txt`<br>
