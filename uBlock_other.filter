@@ -1,0 +1,41 @@
+[Adblock Plus 2.8] 
+! Version: 0.1.2
+! Title: uBlock filters by [webserfer] – Other
+! Homepage: https://github.com/webserfer/uBlock-filters 
+
+! Expires: 7 days 
+! Last modified: 11.03.2018 
+! License: https://mit-license.org/ 
+
+! These filters are created for self, in order not to lose them. But you can use them as you like.
+! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
+
+! ---- Behind the scene -----
+||safebrowsing.google.com/safebrowsing$domain=behind-the-scene,important
+||safebrowsing-cache.google.com/safebrowsing$domain=behind-the-scene,important
+
+
+! ---- Wikipedia ------------
+ru.wikipedia.org###centralNotice
+ru.wiktionary.org###centralNotice
+
+! --- Spam sites ------------
+||scorpion.ru^$important
+||sidex.ru^$important
+||tt.me^$important
+||tamtam.chat^$important
+||onedaysale.ru^$important
+
+! ---- Other ---------------
+rutracker.org##.ta-inf2.top-alert
+*.aliexpress.com##.top-banner-container
+*.livejournal.com##.b-discoverytimes-container
+ru.chaturbate.com##.dismissable_notice.message
+||i.bongacams.com/promotions/vip/straight/1640x140/eur/bc/11_0fcd1/ru.jpg$image
+||i.bongacams.com/images/dmca/*$image
+ru.bongacams.com###desktop_app_bar
+ru.bongacams.com##.b_pos.bc_promo.banner_top_index
+||cbsi.demdex.net$important
+||www.amalgama-lab.com/pict/quality.png$image
+||www.amalgama-lab.com###close_quality
