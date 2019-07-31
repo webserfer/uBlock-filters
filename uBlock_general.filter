@@ -1,0 +1,76 @@
+[Adblock Plus 2.8]
+! Version: 0.1.5
+! Title: uBlock filters by [webserfer] – General
+! Homepage: https://github.com/webserfer/uBlock-filters
+
+! Expires: 7 days
+! Last modified: 02.05.2018
+! License: https://mit-license.org/
+
+! These filters are created for self, in order not to lose them. But you can use them as you like.
+! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
+
+! --------------------------- 
+! -------- Yandex ----------- 
+! ---------------------------
+www.yandex.ru##.olymp-promo
+yandex.ru##.business.foot__business.col
+yandex.ru##.dist-popup__content.popup__content
+! ---- Yandex.Mail ----------
+||mail.yandex.ru/monitoring_liza.txt$beacon
+mail.yandex.ru##iframe[src="https://yastatic.net/daas/stripe.html"]
+! ---- Yandex.Music ---------
+music.yandex.ru##.teaser 
+music.yandex.ru##.subscription-hint_top.popup_fixed.popup.subscription-hint
+music.yandex.ru##.page-search > .ads-block__no-ads > noindex > .payment-show
+music.yandex.ru##.popup_fixed.subscription-hint_bottom.popup.subscription-hint
+! ---- Yandex.Radio ---------
+radio.yandex.ru##.*adv*
+radio.yandex.ru##.payment-order
+||strm.yandex.ru/get-video-an$media,domain=radio.yandex.ru,important
+
+
+! ---------------------------
+! -------- Vkontakte --------
+! ---------------------------
+vk.com###stl_left
+vk.com###feed_filters
+vk.com###stories_feed_wrap
+vk.com###friends_possible_block
+! ---- Apps and games -------
+@@||mc.yandex.ru$domain=dcpu.ru
+! -- Contract Wars ----------
+*.contractwarsgame.com###twitter-widget-0
+ec-cdn-prod4.contractwarsgame.com##.gru-bonus
+||ec-cdn-prod4.contractwarsgame.com/vk/img/getunity.png$image,first-party
+! -- Зомби Ферма ------------
+zombie-vk.vapp-servers.com###tabs
+zombie-vk.vapp-servers.com###new_footer
+! -- Мафия Рулетка ----------
+mafiaruletka.ru##.js-transition-half.js-post.top-list__item:nth-of-type(2) > .js-message-popup.bubble
+mafiaruletka.ru##.top-list__item_double.js-transition-half.js-post.top-list__item:nth-of-type(2) > .js-message-popup.bubble > .bubble-content
+
+
+! ---------------------------
+! -------- Otzovik ----------
+! ---------------------------
+otzovik.com##tbody > tr > td > div[data-id]
+otzovik.com##a[style="width:300px;height:250px;border-color:#B3B1B1"]
+
+
+! ---------------------------
+! -------- Last.fm ----------
+! ---------------------------
+www.last.fm##.features-footer
+www.last.fm##.feedback-message
+www.last.fm##.user-dashboard-history-subscribe-banner-cta
+www.last.fm##.user-dashboard-musical-matches.user-dashboard-module
+www.last.fm##.mpu-subscription-upsell--mpu.mpu-subscription-upsell
+
+
+! ---------------------------
+! -------- ask.fm -----------
+! ---------------------------
+ask.fm##.notice.flash-message
+ask.fm##.loaded.askfm-ad-slot-300x250.flex.askfm-ad-slot-side.askfm-ad-slot
