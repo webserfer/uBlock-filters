@@ -16,7 +16,7 @@ Or use direct links:<br>
 
 `https://raw.githubusercontent.com/webserfer/uBlock-filters/master/UncheckyAds.filter`<br>
 
-## uMatrix filters
+## uMatrix recipies
 
 Russian ruleset recipies:<br>
 `https://raw.githubusercontent.com/webserfer/uBlock-filters/master/uMatrix-ru.filter`<br>
