@@ -1,2 +1,22 @@
-# uBlock_uMatrix
-Custom uBlock filters/uMatrix recipies
+# uBlock filters & uMatrix recipies
+
+These filters and recipies are created for self, in order not to lose them. But you can use it as you like.<br>
+It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.<br>
+
+**[General filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/webserfer/uBlock-filters/master/general.filter&title=uBlock%20filters%20by%20[webserfer]%20–%20General)**<br>
+**[Other filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/webserfer/uBlock-filters/master/other.filter&title=uBlock%20filters%20by%20[webserfer]%20–%20Other)**<br>
+**[Remove Annoying Elements](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/webserfer/uBlock-filters/master/AnnoyingElements.filter&title=uBlock%20filters%20by%20[webserfer]%20–%20Annoying%20Elements)**<br>
+
+Or use direct links:<br>
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/general.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/other.filter`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/AnnoyingElements.filter`<br>
+
+## Other uBlock filters
+
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/UncheckyAds.filter`<br>
+
+## uMatrix filters
+
+Russian ruleset recipies:<br>
+`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/uMatrix-ru.filter`<br>
