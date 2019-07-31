@@ -15,4 +15,4 @@ Or use direct links:<br>
 ## uMatrix recipies
 
 Russian ruleset recipies:<br>
-`https://raw.githubusercontent.com/webserfer/uBlock-filters/master/uMatrix-ru.txt`<br>
+`https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uMatrix-ru.txt`<br>
