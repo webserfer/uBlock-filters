@@ -19,3 +19,5 @@ VKontakte
 Yandex
 	yandex.ru *
 		_ yandex.net *
+	disk.yandex.ru *
+		_ yastatic.net script
