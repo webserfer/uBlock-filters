@@ -1,7 +1,7 @@
 ! uMatrix: Russian ruleset recipes 0.0.2
 ! Title: Rulesets for Russian websites
 ! Maintainer: [webserfer]
-! Homepage: https://github.com/webserfer/uBlock-filters
+! https://github.com/webserfer/uBlock_uMatrix
 !
 ! Expires: 7 days
 ! Last modified: 31.07.2019
