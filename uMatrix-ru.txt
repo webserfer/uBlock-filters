@@ -3,7 +3,7 @@
 ! Maintainer: [webserfer]
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
-! Expires: 365 days
+! Expires: 7 days
 ! Last modified: 31.07.2019
 ! License: https://mit-license.org/
 
