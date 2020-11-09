@@ -3,8 +3,8 @@
 ! Title: uBlock filters by [webserfer] – General
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
-! Expires: 7 days
-! Last modified: 02.05.2018
+! Expires: 30 days
+! Last modified: 09.11.2020
 ! License: https://mit-license.org/
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -29,7 +29,9 @@ music.yandex.ru##.popup_fixed.subscription-hint_bottom.popup.subscription-hint
 radio.yandex.ru##.*adv*
 radio.yandex.ru##.payment-order
 ||strm.yandex.ru/get-video-an$media,domain=radio.yandex.ru,important
-
+! ---- Yandex.Market ---------
+market.yandex.ru##div[data-zone-name="vendorProductLinePromo"]
+market.yandex.ru##div[style="background-color:#ffde40"][aria-hidden="true"]
 
 ! ---------------------------
 ! -------- Vkontakte --------
