@@ -3,8 +3,8 @@
 ! Title: uBlock filters by [webserfer] – Other
 ! Homepage: https://github.com/webserfer/uBlock-filters 
 
-! Expires: 7 days 
-! Last modified: 11.03.2018 
+! Expires: 365 days 
+! Last modified: 06.03.2021
 ! License: https://mit-license.org/ 
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -26,6 +26,7 @@ ru.wiktionary.org###centralNotice
 ||tt.me^$important
 ||tamtam.chat^$important
 ||onedaysale.ru^$important
+||6665666.ru^$important
 
 ! ---- Other ---------------
 rutracker.org##.ta-inf2.top-alert
