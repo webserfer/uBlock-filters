@@ -1,0 +1,28 @@
+[Adblock Plus 2.8]
+! Version: 0.1.0
+! Title: uBlock filters by [webserfer] - Bad Shops
+! Homepage: https://github.com/webserfer/uBlock-filters
+
+! Expires: 365 days
+! Last modified: 19.08.2021
+! License: https://mit-license.org/
+
+! These filters are created for self, in order not to lose them. But you can use them as you like.
+! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
+! ---- Global -----------
+||aliexpress.ru^$important
+||wildberries.ru^$important
+
+! ---- Fake Shops -------
+||tiu.ru^$important
+
+! ---- Flowers ----------
+||6665666.ru^$important
+
+! ---- Stationery -------
+||kancmag.org^$important
+||mekka-spb.ru^$important
+
+! ---- Other -----------
+||sidex.ru^$important
