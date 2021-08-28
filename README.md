@@ -12,7 +12,3 @@ Or use direct links:<br>
 `https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uBlock_other.filter`<br>
 `https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uBlock_annoying.filter`<br>
 
-## uMatrix recipies
-
-Russian ruleset recipies:<br>
-`https://raw.githubusercontent.com/webserfer/uBlock_uMatrix/master/uMatrix-ru.txt`<br>
