@@ -1,4 +1,4 @@
-# uBlock filters & uMatrix recipies
+# uBlock filters
 
 These filters and recipies are created for self, in order not to lose them. But you can use it as you like.<br>
 It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.<br>
