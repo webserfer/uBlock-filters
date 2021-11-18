@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 25.09.2021
+! Last modified: 18.11.2021
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -25,6 +25,15 @@
 ||sima-land.ru^$important
 ||skidka-msk.ru^$important
 ||karaokemozart.ru^$important
+
+! ---- Services Spam -------
+||serviced.ru^$important
+||servicebox.ru^$important
+||servicemos.ru^$important
+||vyborremont.ru^$important
+||centr-servisov.ru^$important
+||service-centers.ru^$important
+||spb.service-centers.ru^$important
 
 ! ---- Map Spam ---------
 ||yp.ru^$important
