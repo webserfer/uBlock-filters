@@ -11,6 +11,12 @@
 ! These filters are created for self, in order not to lose them. But you can use it as you like.
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
 
+! ---------------------------
+! ------- Some shit ---------
+! ---------------------------
+refactoring.guru##.announcement-block-inner
+||refactoring.guru/images/content-public/logos/logo-military*.png?id=*$image
+
 ! --------------------------- 
 ! ------ Call buttons -------
 ! ---------------------------
