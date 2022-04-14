@@ -15,6 +15,7 @@
 ! ----- Malware sites ------- 
 ! ---------------------------
 ||i.piccy.info/$image
+||imageshack.us/$image
 ||audiophilesoft.ru^$important
 ||sound-park.world^$important
 
