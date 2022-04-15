@@ -16,9 +16,11 @@
 ! ---------------------------
 ||i.piccy.info/$image
 ||imageshack.us/$image
-||audiophilesoft.ru^$important
-||sound-park.world^$important
+! ---------------------------
 ||tenable.com^$important
+||cvedetails.com^$important
+||sound-park.world^$important
+||audiophilesoft.ru^$important
 
 ! --------------------------- 
 ! -------- Yandex ----------- 
