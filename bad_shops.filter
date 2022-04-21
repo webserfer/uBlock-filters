@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 22.02.2022
+! Last modified: 21.04.2022
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -23,6 +23,7 @@
 ||igooods.ru^$important
 ||guranych.ru^$important
 ||shopliga.ru^$important
+||shop-lot.ru^$important
 ||allinform.ru^$important
 ||sima-land.ru^$important
 ||yavitrina.ru^$important
