@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 30 days
-! Last modified: 16.04.2022
+! Last modified: 20.04.2022
 ! License: https://mit-license.org/
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -19,6 +19,7 @@
 ! ---------------------------
 ||tenable.com^$important
 ||cvedetails.com^$important
+||futurelearn.com^$important
 ||sound-park.world^$important
 ||audiophilesoft.ru^$important
 
