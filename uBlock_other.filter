@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters 
 
 ! Expires: 365 days 
-! Last modified: 06.03.2021
+! Last modified: 20.05.2022
 ! License: https://mit-license.org/ 
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -27,7 +27,7 @@ ru.wiktionary.org###centralNotice
 ||tamtam.chat^$important
 ||onedaysale.ru^$important
 ||6665666.ru^$important
-||aliexpress.ru^$important
+||rusprofile.ru^$important
 
 ! --- Cheat sites ------------
 ||proverstka.com.ua^$important
