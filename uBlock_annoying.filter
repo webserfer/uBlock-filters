@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 30.05.2022
+! Last modified: 31.05.2022
 ! License: https://mit-license.org
 ! Description: Remove of annoying and unnecessary page elements such as techsupport, unnecessary alerts and other
 
@@ -22,6 +22,7 @@ openweathermap.org##.white-text.donate-section
 ||refactoring.guru/images/content-public/logos/logo-military*.png?id=*$image
 factorio.com##[href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation"]
 ||pastebin.com/themes/pastebin/img/pastebin_logo_side_outline_support_ukraine.png$image
+ru.depositphotos.com##.notification-bar_visible.notification-bar_link._bar.notification-bar
 
 ! --------------------------- 
 ! -- Live chat && buttons ---
