@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 11.05.2022
+! Last modified: 02.06.2022
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -76,6 +76,9 @@
 ||shops-prices.ru^$important
 ||spravkainform.ru^$important
 ||spravochnikov.ru^$important
+
+! ---- Doctors ----------
+||doctu.ru^$important
 
 ! ---- Flowers ----------
 ||6665666.ru^$important
