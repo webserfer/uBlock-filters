@@ -3,7 +3,7 @@
 ! Title: uBlock filters by [webserfer] – Fixes
 ! Homepage: https://github.com/webserfer/uBlock-filters
 ! Expires: 365 days
-! Last modified: 17.06.2022
+! Last modified: 20.06.2022
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -11,3 +11,5 @@
 
 www.immuniweb.com#@##gdpr-section
 www.immuniweb.com#@#.cookie-privacy
+#@#a[href^="https://vk.com/share.php"]
+#@#a[href^="https://vk.com/share.php?"]
