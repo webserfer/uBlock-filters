@@ -11,15 +11,12 @@
 ! These filters are created for self, in order not to lose them. But you can use it as you like.
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
 
-! ---------------------------
-! - Sites with bad content --
-! ---------------------------
-||razdrazhe.ru^$important
 
 ! ---------------------------
 ! - Politics && covid shit --
 ! ---------------------------
-###Image1 > .widget-content > [href]
+||razdrazhe.ru^$important
+##[href="https://war.ukraine.ua/"]
 ##[href="https://ukraine.ua/news/stand-with-ukraine/"]
 ||img.youtube.com/vi/IVc5XVqXrd4
 ru.wikipedia.org##.noprint
