@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 05.06.2022
+! Last modified: 02.07.2022
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
@@ -43,6 +43,12 @@
 ||kazanexpress.ru^$important
 ||karaokemozart.ru^$important
 ||spb.yavitrina.ru^$important
+||meshok.net^$important
+||lyvi.ru^$important
+||bizorg.su^$important
+||1ya.ru^$important
+||bodrim.ru^$important
+||quiddi.ru^$important
 
 ! ---- Services Spam -------
 ||serviced.ru^$important
