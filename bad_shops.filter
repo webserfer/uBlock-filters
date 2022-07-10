@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version: 0.1.2
+! Version: 0.1.3
 ! Title: uBlock filters by [webserfer] — Bad Shops
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
@@ -10,7 +10,7 @@
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
 
-! ---- AIO Shops --------
+! ---- AIO Shops ----------
 ||av.ru^$important
 ||ozru.ru^$important
 ||nytos.ru^$important
@@ -24,7 +24,17 @@
 ||wildberries.ru^$important
 ||www.officepage.ru^$important
 
-! ---- Fake Shops -------
+! ---- Ya.Market clones ---
+||yavitrina.ru^$important
+||spb.yavitrina.ru^$important
+
+! ---- AliExpress clones --
+||alitools.io^$important
+||aliradar.com^$important
+||allinform.ru^$important
+||kazanexpress.ru^$important
+
+! ---- Fake Shops --------
 ||tiu.ru^$important
 ||snik.co^$important
 ||price.ru^$important
@@ -41,16 +51,10 @@
 ||guranych.ru^$important
 ||shopliga.ru^$important
 ||shop-lot.ru^$important
-||alitools.io^$important
-||aliradar.com^$important
-||allinform.ru^$important
 ||sima-land.ru^$important
-||yavitrina.ru^$important
 ||skidka-msk.ru^$important
 ||spb.yamart.ru^$important
-||kazanexpress.ru^$important
 ||karaokemozart.ru^$important
-||spb.yavitrina.ru^$important
 ||meshok.net^$important
 ||lyvi.ru^$important
 ||bizorg.su^$important
