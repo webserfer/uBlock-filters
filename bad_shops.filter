@@ -10,9 +10,11 @@
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
 
-! ---- Global -----------
+! ---- AIO Shops --------
 ||av.ru^$important
 ||ozru.ru^$important
+||nytos.ru^$important
+||ne-ka.ru^$important
 ||aliexpress.ru^$important
 ||sbermarket.ru^$important
 ||kanc-piter.ru^$important
@@ -59,7 +61,6 @@
 ||festima.ru^$important
 ||e-price.ru^$important
 ||ruvestor.ru^$important
-||ne-ka.ru^$important
 
 ! ---- Services Spam -------
 ||serviced.ru^$important
