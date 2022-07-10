@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version: 0.1.1
+! Version: 0.1.2
 ! Title: uBlock filters by [webserfer] — Bad Shops
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
@@ -15,6 +15,7 @@
 ||ozru.ru^$important
 ||nytos.ru^$important
 ||ne-ka.ru^$important
+||bumaga-s.ru^$important
 ||aliexpress.ru^$important
 ||sbermarket.ru^$important
 ||kanc-piter.ru^$important
