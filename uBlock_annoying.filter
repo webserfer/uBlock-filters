@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 02.07.2022
+! Last modified: 10.07.2022
 ! License: https://mit-license.org
 ! Description: Remove of annoying and unnecessary page elements such as techsupport, unnecessary alerts and other
 
@@ -19,6 +19,7 @@ pianistu.ru##.top-notice__inner
 ! ---------------------------
 ! - Politics && covid shit --
 ! ---------------------------
+||denik.od.ua^$important
 symfonycasts.com##.justify-content-center.p-3.d-block
 www.eapteka.ru##.btn-danger.btn-hmetac.btn-sm.btn
 ||hostzealot.ru^$important
