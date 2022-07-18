@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version: 0.1.6
+! Version: 0.1.7
 ! Title: uBlock filters by [webserfer] – Annoying Elements
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
@@ -19,12 +19,8 @@ pianistu.ru##.top-notice__inner
 ! ---------------------------
 ! - Politics && covid shit --
 ! ---------------------------
-||xn--d1acnqm.xn--j1amh^$important
-||denik.od.ua^$important
 symfonycasts.com##.justify-content-center.p-3.d-block
 www.eapteka.ru##.btn-danger.btn-hmetac.btn-sm.btn
-||hostzealot.ru^$important
-||razdrazhe.ru^$important
 ##[href="https://war.ukraine.ua/"]
 ##[href="https://ukraine.ua/news/stand-with-ukraine/"]
 ||img.youtube.com/vi/IVc5XVqXrd4
