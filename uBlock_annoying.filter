@@ -12,6 +12,11 @@
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
 
 ! ---------------------------
+! - Fake price --------------
+! ---------------------------
+alpatech.ru##.span16 > .ty-wysiwyg-content > div
+
+! ---------------------------
 ! - Money notifications -----
 ! ---------------------------
 pianistu.ru##.top-notice__inner
