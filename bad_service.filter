@@ -1,0 +1,32 @@
+[Adblock Plus 2.8]
+! Version: 0.1.0
+! Title: uBlock filters by [webserfer] — Bad Service
+! Homepage: https://github.com/webserfer/uBlock-filters
+
+! Expires: 365 days
+! Last modified: 10.08.2022
+! License: https://mit-license.org
+
+! These filters are created for self, in order not to lose them. But you can use them as you like.
+! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
+! ----------------------------------- !
+! ---- Security --------------------- !
+! ----------------------------------- !
+||e-inj.ru^$important
+||cilex.ru^$important
+||aliton.ru^$important
+||bezspb.ru^$important
+||isee-sb.ru^$important
+||sigma-6.ru^$important
+||russave.ru^$important
+||vizit-spb.ru^$important
+||www.aurabi.ru^$important
+||systemssec.ru^$important
+||slt-expert.ru^$important
+||videozashita.ru^$important
+||www.ksbmaster.ru^$important
+||videoline.spb.ru^$important
+||dipol-service.ru^$important
+||intellekt-pro.ru^$important
+||www.domofons.info^$important
