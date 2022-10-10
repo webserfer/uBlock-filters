@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 02.10.2022
+! Last modified: 10.10.2022
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use it however you like.
@@ -19,6 +19,11 @@
 ! ---- Fake artcile sites ----------- !
 ! ----------------------------------- !
 ||codingbee.net^$important
+
+! ----------------------------------- !
+! ---- Spam ------------------------- !
+! ----------------------------------- !
+||sutvarkysiu.com^$important
 
 ! ----------------------------------- !
 ! ---- Other ------------------------ !
