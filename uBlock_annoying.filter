@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 15.02.2023
+! Last modified: 24.02.2023
 ! License: https://mit-license.org
 ! Description: Remove of annoying and unnecessary page elements such as techsupport, unnecessary alerts and other
 
@@ -52,6 +52,7 @@ psycho-test.org##[href="https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D
 ! --------------------------- 
 ! -- Live chat && buttons ---
 ! ---------------------------
+||fstrk.io^
 ||jivochat.com^
 ||whitesaas.com^
 ||saas-support.com^
