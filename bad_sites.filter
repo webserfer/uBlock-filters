@@ -1,10 +1,10 @@
 [Adblock Plus 2.8]
-! Version: 0.0.1
+! Version: 0.0.2
 ! Title: uBlock filters by [webserfer] – Bad Sites
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 10.10.2022
+! Last modified: 16.03.2023
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use it however you like.
@@ -16,7 +16,7 @@
 ||gazeta.ru^$important
 
 ! ----------------------------------- !
-! ---- Fake artcile sites ----------- !
+! ---- Fake articles ---------------- !
 ! ----------------------------------- !
 ||codingbee.net^$important
 
@@ -24,6 +24,11 @@
 ! ---- Spam ------------------------- !
 ! ----------------------------------- !
 ||sutvarkysiu.com^$important
+
+! ----------------------------------- !
+! ---- Malware ---------------------- !
+! ----------------------------------- !
+||freesoft.ru^$important
 
 ! ----------------------------------- !
 ! ---- Other ------------------------ !
