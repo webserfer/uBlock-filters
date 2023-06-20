@@ -1,14 +1,19 @@
 [Adblock Plus 2.8]
-! Version: 0.1.0
+! Version: 0.1.1
 ! Title: uBlock filters by [webserfer] — Bad Service
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 10.08.2022
+! Last modified: 20.06.2023
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use them as you like.
 ! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
+! ----------------------------------- !
+! ---- IPTV ------------------------- !
+! ----------------------------------- !
+||www.ottclub.tv^$important
 
 ! ----------------------------------- !
 ! ---- Security --------------------- !
