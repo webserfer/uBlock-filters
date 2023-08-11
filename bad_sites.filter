@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/webserfer/uBlock-filters
 
 ! Expires: 365 days
-! Last modified: 19.06.2023
+! Last modified: 11.08.2023
 ! License: https://mit-license.org
 
 ! These filters are created for self, in order not to lose them. But you can use it however you like.
@@ -31,6 +31,7 @@
 ! ----------------------------------- !
 ||freesoft.ru^$important
 ||esetnod32.ru^$important
+||www.venea.net^$important
 ||lp.esetnod32.ru^$important
 
 ! ----------------------------------- !
