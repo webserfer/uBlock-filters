@@ -1,0 +1,13 @@
+[Adblock Plus 2.8]
+! Version: 0.0.1
+! Title: uBlock filters by [webserfer] – Security
+! Homepage: https://github.com/webserfer/uBlock-filters
+
+! Expires: 365 days
+! Last modified: 17.02.2025
+! License: https://mit-license.org
+! Description: Remove of annoying and unnecessary page elements such as techsupport, unnecessary alerts and other
+
+! These filters are created for self, in order not to lose them. But you can use it as you like.
+! It is provided "as is", I hasn't responsibility for possible damage, broken sites and/or lack of functions you are using.
+
